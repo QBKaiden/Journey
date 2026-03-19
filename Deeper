@@ -1,0 +1,15 @@
+Deeper
+<!DOCTYPE html>
+<html>
+<head>
+<title> Journey in the Woods </title>
+</head>
+<body>
+
+<h1> Deeper into the Forest </h1>
+<p> You followed the purple flower path, but it only lead you DEEPER into the forest and leaving you more lost! After wandering for even longer, you find yourself surronded by a bunch of fireflies. You watch as they create a path for you to follow using their light. Will you follow the fireflies' path or go back to the original fork in the road? </p>
+<a/html=WarmWelcome> Follow the Fireflies </a>
+<a/html=Journey> Go Back <a/>
+<img src=https://www.firefly.org/wp-content/uploads/2023/12/fireflies-flashing-in-georgia-forest-synchronous-fireflies-mark-magnerella.jpg>
+</body>
+</html>
